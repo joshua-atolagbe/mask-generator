@@ -1,0 +1,7 @@
+pandas
+numpy
+matpotlib
+numpngw
+torchvision
+torch
+scikit-learn
